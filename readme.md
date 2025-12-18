@@ -22,7 +22,7 @@ Os níveis são definidos de acordo com faixas de XP, variando de **Ferro** até
 
 ## 📌 Estrutura do Projeto
 - `index.js`: código principal  
-- `README.md`: documentação  
+- `readme.md`: documentação  
 
 ## 📚 Aprendizados
 - Manipulação de arrays de objetos  
